@@ -1,0 +1,34 @@
+[33mcommit af6da3e5e839a9d69ba0c4c907ff90af2504d783[m
+Author: patience <flyysr@gmail.com>
+Date:   Thu Dec 19 15:00:05 2013 +0800
+
+    my new file c.html
+         git reset HEAD<file>lysr
+         ;
+         "git reset HEAD <file>"
+    
+         :qw
+
+[33mcommit fec7f5f7c2c03666cee6e4b1bcabcd7d8cec4b22[m
+Author: flyysr <flyysr@163.com>
+Date:   Thu Dec 19 12:11:03 2013 +0800
+
+    Update b.html
+
+[33mcommit 8c29db1d292b8eda559f4bd033db2b39c9cc8d89[m
+Author: patience <flyysr@gmail.com>
+Date:   Thu Dec 19 11:48:13 2013 +0800
+
+    add
+
+[33mcommit add5b8545de66dace34bfd602663c5800800a585[m
+Author: patience <flyysr@gmail.com>
+Date:   Thu Dec 19 11:36:28 2013 +0800
+
+    add
+
+[33mcommit 9ca071d59015c2a3772a22d191c8c9b25e646c29[m
+Author: flyysr <flyysr@163.com>
+Date:   Wed Dec 18 19:20:36 2013 -0800
+
+    Initial commit
